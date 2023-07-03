@@ -1,4 +1,4 @@
-score = int(input('What is your score 1  :'))
+score = int(input('What is your score :'))
 
 if (score <= 10):
     print('ไม่ผ่าน')   
