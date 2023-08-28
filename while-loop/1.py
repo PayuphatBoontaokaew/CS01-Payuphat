@@ -52,8 +52,3 @@ n = int(input('เลข : '))
 while ( n > 0 ) :
     print('*' , end = '' )
     n -= 1
-    
-    # x = 10
-    # while (x > 0):
-    #     print("A")
-    #     x -= 1
